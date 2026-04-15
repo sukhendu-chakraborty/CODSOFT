@@ -1,7 +1,7 @@
 # 🎬 Movie Genre Classification
 
 ## 📌 Project Overview
-This project implements a machine learning model to predict the genre of a movie based on its plot summary. The solution tackles a multi-class text classification problem using Natural Language Processing (NLP) techniques.
+This project implements a machine learning model to predict the genre of a movie based on plot summary. The solution tackles a multi-class text classification problem using Natural Language Processing (NLP) techniques.
 
 ## 📊 Dataset
 **Source:** [IMDb Genre Classification Dataset (Kaggle)](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
